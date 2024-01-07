@@ -1,5 +1,4 @@
  
-```markdown
 # Kanban with Zustand
 
 This is a small project created for the purpose of learning how to work with Zustand, a simple and powerful state management library for React.
@@ -19,7 +18,7 @@ The project implements a basic Kanban board, allowing users to create, move, and
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mohmaedsallam/Kanban-with-zustand.git
-   ```
+
 
 2. **Install Dependencies:**
    ```bash
