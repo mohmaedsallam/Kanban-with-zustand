@@ -1,0 +1,16 @@
+:root {
+  --COLOR-GREEN: #3a5a40;
+  --COLOR-GREEN-DARK: #344e41;
+  --COLOR-GREEN-LIGHT: #588157;
+  --COLOR-ONGOING: #a3b18a;
+  --COLOR-DONE: #dad7cd;
+  font-family: Helvetica;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
